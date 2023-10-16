@@ -10,3 +10,4 @@ This repo has a dev container. This means if you open it inside a [GitHub Codesp
 # References
 [Create new web app](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=vanilla-javascript)
 [Run locally](https://learn.microsoft.com/en-us/azure/static-web-apps/local-development)
+[VS Code Development withing Container](https://code.visualstudio.com/docs/devcontainers/containers)
